@@ -1,1 +1,3 @@
-Cross and Zeros full application on C#
+Cross and Zero Game
+full application on C#
+
