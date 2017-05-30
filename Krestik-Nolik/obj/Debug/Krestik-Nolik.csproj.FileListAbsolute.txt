@@ -1,0 +1,10 @@
+c:\users\seymur\documents\visual studio 2017\Projects\Krestik-Nolik\Krestik-Nolik\bin\Debug\Krestik-Nolik.exe.config
+c:\users\seymur\documents\visual studio 2017\Projects\Krestik-Nolik\Krestik-Nolik\bin\Debug\Krestik-Nolik.exe
+c:\users\seymur\documents\visual studio 2017\Projects\Krestik-Nolik\Krestik-Nolik\bin\Debug\Krestik-Nolik.pdb
+c:\users\seymur\documents\visual studio 2017\Projects\Krestik-Nolik\Krestik-Nolik\obj\Debug\Krestik_Nolik.Properties.Resources.resources
+c:\users\seymur\documents\visual studio 2017\Projects\Krestik-Nolik\Krestik-Nolik\obj\Debug\Krestik-Nolik.csproj.GenerateResource.Cache
+c:\users\seymur\documents\visual studio 2017\Projects\Krestik-Nolik\Krestik-Nolik\obj\Debug\Krestik-Nolik.exe
+c:\users\seymur\documents\visual studio 2017\Projects\Krestik-Nolik\Krestik-Nolik\obj\Debug\Krestik-Nolik.pdb
+c:\users\seymur\documents\visual studio 2017\Projects\Krestik-Nolik\Krestik-Nolik\obj\Debug\Krestik_Nolik.Form1.resources
+c:\users\seymur\documents\visual studio 2017\Projects\Krestik-Nolik\Krestik-Nolik\obj\Debug\Krestik-Nolik.csprojResolveAssemblyReference.cache
+c:\users\seymur\documents\visual studio 2017\Projects\Krestik-Nolik\Krestik-Nolik\obj\Debug\Krestik_Nolik.login.resources
